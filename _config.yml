@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://9peppe.github.io
+title: meh.
+paginate: 5
